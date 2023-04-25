@@ -1,1 +1,1 @@
-# Mobile-Robotics-project
+I am working on the obstacle avoidance Mobile robot, experimenting with using the sensor(Lidar) which placed at the bottom of the robot in order to navigate in the environment. It will have function build a map by using the information from the LIDAR sensor and dynamically update the local ad global map sensor this sensor uses Nav2 framework. 
